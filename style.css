@@ -1,4 +1,5 @@
- background-color: orange;
+.navbar {
+  background-color: orange;
   overflow: hidden;
   display:flex;
   justify-content:space-around;
