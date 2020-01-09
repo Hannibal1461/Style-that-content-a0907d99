@@ -1,0 +1,23 @@
+ background-color: orange;
+  overflow: hidden;
+  display:flex;
+  justify-content:space-around;
+}
+
+.content p {
+    justify-content: flex-start;
+    width: 100%
+}
+
+.content {
+    background-color: salmon;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.news {
+    width: 30%;
+}
